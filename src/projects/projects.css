@@ -1,0 +1,98 @@
+#main_projects{
+  height: 100vh;
+  margin-left: 13vh;
+  text-align: center;
+}
+#main_projects > h1{
+  padding-top: 5vh;
+}
+#containers_div{
+  flex-wrap: wrap;
+  display: flex;
+}
+.container_project{
+  height: 44vh;
+  width: 44vh;
+  background-color: black;
+  border: solid 2px rgb(0, 198, 182);
+  margin-top: 10vh;
+  margin-left: 10vh;
+  margin-right: 10vh;
+  border-radius: 5px;
+  transition: 1s ease-in-out;
+}
+.container_project:hover{
+  height: 55vh;
+  width: 55vh;
+  margin-top: 5vh;
+  margin-left: 5vh;
+  margin-right: 5vh;
+
+}
+.container_project > img{
+  margin-top: 4px;
+  height: 32vh;
+  width: 42vh;
+  transition: 1s ease-in-out;
+}
+.container_project:hover > img{
+  height: 42vh;
+  width: 53vh;
+}
+.container_project > p{
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+.container_project > a{
+  background-color: black;
+  color: rgb(0, 198, 182);
+  border: solid 2px rgb(0, 198, 182);
+  padding: 1px;
+  border-radius: 5px;
+}
+.container_project > a:hover{
+  background-color: rgb(59, 59, 59);
+  color: rgb(0, 198, 182);
+  cursor: pointer;
+}
+
+@media(max-width: 750px){
+  #main_projects{
+    height: 100vh;
+    margin-left: 13vh;
+    text-align: center;
+  }
+  #main_projects > h1{
+    padding-top: 5vh;
+  }
+  #containers_div{
+    flex-wrap: wrap;
+    display: flex;
+  }
+  .container_project{
+    height: 30vh;
+    width: 30vh;
+    background-color: black;
+    border: solid 2px rgb(0, 198, 182);
+    margin-top: 10vh;
+    margin-left: 14vh;
+    margin-right: 10vh;
+    border-radius: 5px;
+  }
+  .container_project > img{
+    margin-top: 4px;
+    height: 20vh;
+    width: 24vh;
+  }
+  .container_project > p{
+    margin-top: 2px;
+    margin-bottom: 6px;
+  }
+  .container_project > a{
+    background-color: black;
+    color: rgb(0, 198, 182);
+    border: solid 2px rgb(0, 198, 182);
+    padding: 1px;
+    border-radius: 5px;
+  }
+}
