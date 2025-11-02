@@ -12,9 +12,16 @@ const Projects = () => {
               </a>
             </div>
             <div class="container_project">
-              <img src="images/gerenc-alunos.png" alt="" width="44px"/>
-              <p>STUDENT MANAGER</p>
-              <a href="https://gabriel-lemuchi.github.io/gerenciar-alunos/" target="blank">
+              <img src="images/marketbot.png" alt="" width="44px"/>
+              <p>MarketBot</p>
+              <a href="https://marketbot-pi.vercel.app/" target="blank">
+              See project
+              </a>
+            </div>
+            <div class="container_project">
+              <img src="images/weather.png" alt="" width="44px"/>
+              <p>Weather Researcher</p>
+              <a href="https://weather-researcher.vercel.app/" target="blank">
               See project
               </a>
             </div>
