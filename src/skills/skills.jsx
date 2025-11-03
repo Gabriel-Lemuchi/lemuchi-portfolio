@@ -25,9 +25,9 @@ const Skills = () => {
             <p>Experience developing machine learning models for prediction, and data analysis.</p>
           </div>
           <div class="skill_card">
-            <img src="images/n8n.png" alt="" width="40px" height="40px"/>
-            <p>n8n</p>
-            <p>Creation of intelligent workflows and automation agents with n8n</p>
+            <img src="images/typescript.png" alt="" width="40px" height="40px"/>
+            <p>TypeScript</p>
+            <p>Experienced in TypeScript, building interactive and dynamic applications.</p>
           </div>
           <div class="skill_card">
             <img src="images/sql.png" alt="" width="40px" height="40px"/>
