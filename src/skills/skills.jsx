@@ -17,12 +17,12 @@ const Skills = () => {
           <div class="skill_card">
             <img src="images/python.png" alt="" width="40px" height="40px"/>
             <p>Python</p>
-            <p>Experience with Python for process automation, data science projects, and AI applications</p>
+            <p>Experience with Python for process automation, and FastAPI</p>
           </div>
           <div class="skill_card">
-            <img src="images/ml.png" alt="" width="40px" height="30px"/>
-            <p>ML</p>
-            <p>Experience developing machine learning models for prediction, and data analysis.</p>
+            <img src="images/node.png" alt="" width="40px" height="30px"/>
+            <p>Node</p>
+            <p>Experience developing API Rests for the backend.</p>
           </div>
           <div class="skill_card">
             <img src="images/typescript.png" alt="" width="40px" height="40px"/>
