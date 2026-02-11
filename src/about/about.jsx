@@ -7,7 +7,7 @@ const About = () => {
       </div>
       <div id="about_text">
         <h3>Hello! My name is Gabriel Lemuchi Tolomelli Braz, and actually i am studying on Instituto Federal Sudeste MG.
-        I have been studying computer technician since 2023 and my focus is on web development.
+        I am currently in my first semester of a Bachelor's degree in Information Systems, and my focus is on full-stack development.
         </h3>
       </div>
 
