@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.App {
+  text-align: center;
+}
+body{
+  background-image: radial-gradient(rgb(13, 13, 13), rgba(22, 22, 22, 0.934));
+  color: rgb(0, 198, 182);
+}
